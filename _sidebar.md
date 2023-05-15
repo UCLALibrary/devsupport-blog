@@ -1,6 +1,6 @@
 <!-- docs/_sidebar.md -->
 
-- [Hello World](/)
+- [Welcome](/)
 
 - Blogs
   - [Blog One](POST1.md)
